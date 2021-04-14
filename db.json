@@ -80,5 +80,108 @@
       "proteins": "8",
       "category": "Drinks"      
     }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+  "name": "typicode"
+  },
+  "codes": [
+    {
+      "id": 1,
+      "name": "Professional Services",
+      "product_tax_code": "19005",
+      "description": "Professional services which are not subject to a service-specific tax levy."
+    },
+    {
+      "id": 2,
+      "name": "Clothing",
+      "product_tax_code": "20010",
+      "description": "All human wearing apparel suitable for general use"
+    },
+    {
+      "id": 3,
+      "name": "Clothing - Swimwear",
+      "product_tax_code": "20041",
+      "description": "Bathing suits and swim suits"
+    },
+    {
+      "id": 4,
+      "name": "Digital Goods",
+      "product_tax_code": "31000",
+      "description": "Digital products transferred electronically, meaning obtained by the purchaser by means other than tangible storage media."
+    },
+    {
+      "id": 5,
+      "name": "Candy",
+      "product_tax_code": "40010",
+      "description": "Candy and similar items"
+    },
+    {
+      "id": 6,
+      "name": "Supplements",
+      "product_tax_code": "40020",
+      "description": "Non-food dietary supplements"
+    },
+    {
+      "id": 7,
+      "name": "Food & Groceries",
+      "product_tax_code": "40030",
+      "description": "Food for humans consumption, unprepared"
+    },
+    {
+      "id": 8,
+      "name": "Soft Drinks",
+      "product_tax_code": "40050",
+      "description": "Soft drinks, soda, and other similar beverages. Does not include fruit juices and water."
+    },
+    {
+      "id": 9,
+      "name": "Bottled Water",
+      "product_tax_code": "40060",
+      "description": "Bottled, drinkable water for human consumption."
+    },
+    {
+      "id": 10,
+      "name": "Prepared Foods",
+      "product_tax_code": "41000",
+      "description": "Foods intended for on-site consumption. Ex. Restaurant meals."
+    },
+    {
+      "id": 11,
+      "name": "Books",
+      "product_tax_code": "81100",
+      "description": "Books, printed"
+    },
+    {
+      "id": 12,
+      "name": "Textbook",
+      "product_tax_code": "81110",
+      "description": "Textbooks, printed"
+    }
   ]
 }
